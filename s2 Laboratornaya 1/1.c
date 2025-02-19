@@ -3,7 +3,7 @@
 #include <string.h>
 #include <time.h>
 
-#define N 100 // Количество студентов
+#define N 200 // Количество студентов
 #define MAX_SCORE 300 // Максимальный общий балл
 
 struct STUDENT {
@@ -46,7 +46,7 @@ int loadNAME(char names[][64], int maxNames) {
     return count;//возвращаем кол-во загруженных имен
 }
 
-// Функция сортировки выбором по убыванию общего балла
+//функция сортировки выбором по убыванию общего балла
 void selectionSort(struct STUDENT arr[], int n) {
     for (int i = 0; i < n - 1; i++) {
         int maxIdx = i;
@@ -125,5 +125,10 @@ int main() {//главная часть
     }
     
     printf("\nВремя сортировки: %f секунд\n", time_spent);
+    printf("CPU: \n");
+    system("sysctl -n machdep.cpu.brand_string");
+    system("sysctl -n hw.cpufrequency");
+    size_t weight = sizeof(students); 
+    printf("Размер массива: %zu байт (%f КБ)\n", weight, weight / 1024.0);
     return 0;
 }
