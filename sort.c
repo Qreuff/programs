@@ -14,3 +14,13 @@ void bubble_Sort(int arr[], int n, int *M, int *C) {
         }
     }
 }
+int main(){
+    int a[] = {4,2,0};
+    int size = sizeof(a) / sizeof(a[0]);
+    bubble_Sort(a,size)
+    printf(""):
+    for(int i ==0; i<n; i++){
+        printf("%d", a[i]);
+    }
+    printf("\n")
+}
