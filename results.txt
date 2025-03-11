@@ -1,0 +1,55 @@
+results
+1 greeting.txt: HELLO
+2 del feature/uppercase
+3 merge mybranch n master
+4 git log --oneline --graph --all:
+* c5d049c update greeting.txt
+* e6852d8 add file greeting.txt
+* 727093b Обновлен sort.c
+* b590cd8 add sort.c
+* 5a68471 Add files via upload
+* ccb957f Update Имена.txt
+* 5168096 Update 1.c
+* 2254b6b Create readme.txt
+* 2aba2c4 Delete s2 Laboratornaya 1/readme.docx
+* 545ef41 Add files via upload
+* d104f1e Delete s2 Laboratornaya 1/readme.txt
+* 2e06dd5 Add files via upload
+* ad1db62 Add files via upload
+* 9b91f2f Delete Имена.txt
+* e76b471 Delete 1.c
+* ca6a458 s2 Laboratornaya 1
+* 610bb46 Delete README.md
+* d4c4f8e Update README.md
+* 78006a1 Create README.md
+* 5f2c3c2 Add files via upload
+* 39205ee Delete Laboratornaya№10 directory
+* ad112fa Add files via upload
+* 87e034c Add files via upload
+* 50497a4 Delete Laboratornaya№9 directory
+* 15f0f2a Add files via upload
+* 767855c Add files via upload
+* a999ee1 Add files via upload
+* 187153a Delete README.md
+* 0ebc3c9 Create README.md
+* 5aafec8 .
+* 79798be Delete 1.txt
+* 0908b41 Add files via upload
+* 512f318 Delete lab5_2.c
+* abdcecb Delete lab5_1.c
+* e6f94c1 Add files via upload
+* 254e2a2 .
+* 666c666 .
+* 13581ef Add files via upload
+* d545fbf Add files via upload
+* 8dffd82 .
+* a4d60d4 Add files via upload
+* b7ded3b Delete 1
+* 8d2c90a Rename 1824fse9byudddddydydydydydydydydydydydydydydydydydydydydydydydyd(1).gif to 1
+* ea126f0 Add files via upload
+* 797af6f Add files via upload
+* 6141c5d Update lab5_2.c
+* 0fd87a3 Add files via upload
+* 1cf7817 laboratornaya rabota 4/2
+* e1c85f9 laboratornaya rabota 4/1
+* 2dd1f89 Add files via upload
