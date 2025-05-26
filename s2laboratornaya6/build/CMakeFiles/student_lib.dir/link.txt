@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc lib/libstudent_lib.a CMakeFiles/student_lib.dir/student.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib lib/libstudent_lib.a

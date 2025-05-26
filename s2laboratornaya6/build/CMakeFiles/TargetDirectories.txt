@@ -1,0 +1,4 @@
+/Users/mac/documents/1/s2laboratornaya6/build/CMakeFiles/student_lib.dir
+/Users/mac/documents/1/s2laboratornaya6/build/CMakeFiles/student_app.dir
+/Users/mac/documents/1/s2laboratornaya6/build/CMakeFiles/edit_cache.dir
+/Users/mac/documents/1/s2laboratornaya6/build/CMakeFiles/rebuild_cache.dir
